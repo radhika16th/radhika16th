@@ -49,8 +49,7 @@ Email: radhika16th@gmail.com
 --- 
 
 ## ⭐ Always open to learning, collaborating, and building cool things.
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=radhika16th&show_icons=true)
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=radhika16th&show_icons=true)-->
 ![GitHub streak](https://streak-stats.demolab.com/?user=radhika16th)
 
 <!--
