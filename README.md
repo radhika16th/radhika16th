@@ -50,6 +50,8 @@ Email: radhika16th@gmail.com
 
 ## ⭐ Always open to learning, collaborating, and building cool things.
 
+![GitHub streak](https://streak-stats.demolab.com/?user=radhika16th)
+
 <!--
 **radhika16th/radhika16th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
